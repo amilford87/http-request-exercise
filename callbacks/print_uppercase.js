@@ -12,4 +12,4 @@ function printUpperCase (html) {
     console.log(upperCaseText);
 }
 
-getHTML(requestOptions, printUpperCase);
+getHTML(requestOptions, printUpperCase); 
